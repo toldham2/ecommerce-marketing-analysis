@@ -151,3 +151,16 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 ~$Sources.xlsx
+.Rproj.user/shared/notebooks/patch-chunk-names
+.Rproj.user/D7F2B6FD/sources/session-d375bf3a/lock_file
+.Rproj.user/D7F2B6FD/sources/session-d375bf3a/D790EBD4-contents
+.Rproj.user/D7F2B6FD/sources/session-d375bf3a/D790EBD4
+.Rproj.user/D7F2B6FD/saved_source_markers
+.Rproj.user/D7F2B6FD/rmd-outputs
+.Rproj.user/D7F2B6FD/pcs/workbench-pane.pper
+.Rproj.user/D7F2B6FD/pcs/windowlayoutstate.pper
+.Rproj.user/D7F2B6FD/pcs/source-pane.pper
+.Rproj.user/D7F2B6FD/pcs/files-pane.pper
+.Rproj.user/D7F2B6FD/jobs/9920D24B-output.json
+.DS_Store
+.Rhistory
